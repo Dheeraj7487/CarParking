@@ -11,15 +11,15 @@ can cancel their books space anytime. Users can even make payment online. After 
 notified about the booking along with unique parking number.
 
 # Module :
-   Admin Login: The system is under supervision of admin who manages the bookings made.
-   User login/registration: Users have to first register themselves to login into the system.
-   Parking areas: The system will provide users with number of parking areas of available for booking .
-   Parking availability check: User can click on spaces to view the availability. If the space is already booked it will be marked as booked and not booked will be marked as available .
-   Parking booking online for date and time: Users can book parking space for their required date and time.
-   Automatic cost calculation: The system calculates the total cost incurred for parking based on the time that user has asked for booking.
-   Parking cancellation: User may even cancel their bookings by login into the system anytime.
-   Successful parking booking: When user is successful in parking the space, system sends a confirmation notification regarding the space booked.
-   Feedback: The system has a feedback form, where user can provide feedback into the system. 
+      Admin Login: The system is under supervision of admin who manages the bookings made.
+      User login/registration: Users have to first register themselves to login into the system.
+      Parking areas: The system will provide users with number of parking areas of available for booking .
+      Parking availability check: User can click on spaces to view the availability. If the space is already booked it will be marked as booked and not booked will be marked as available .
+      Parking booking online for date and time: Users can book parking space for their required date and time.
+      Automatic cost calculation: The system calculates the total cost incurred for parking based on the time that user has asked for booking.
+      Parking cancellation: User may even cancel their bookings by login into the system anytime.
+      Successful parking booking: When user is successful in parking the space, system sends a confirmation notification regarding the space booked.
+      Feedback: The system has a feedback form, where user can provide feedback into the system. 
 
 # User side functionality:
     Book parking space
