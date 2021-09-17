@@ -20,6 +20,9 @@ notified about the booking along with unique parking number.
     7. Parking cancellation: User may even cancel their bookings by login into the system anytime.
     8. Successful parking booking: When user is successful in parking the space, system sends a confirmation notification regarding the space booked.
     9. Feedback: The system has a feedback form, where user can provide feedback into the system. 
+    
+# Screenshot
+    ![Picture11](https://user-images.githubusercontent.com/61641097/133771616-39466f43-29bb-4999-ba3d-9ce7ba05141c.jpg)
 
 # User side functionality:
     Book parking space
