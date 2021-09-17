@@ -9,11 +9,11 @@ can cancel their books space anytime. Users can even make payment online. After 
 notified about the booking along with unique parking number.
 
 # User side functionality:
-   Book parking space
-   Cancellation
-   Receipt Print
-   Feedback
-   Recharge Wallet
+    Book parking space
+    Cancellation
+    Receipt Print
+    Feedback
+    Recharge Wallet
  # Admin side functionality:
     Administers parking booked
     Cancellation
