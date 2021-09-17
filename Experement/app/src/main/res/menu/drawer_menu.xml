@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single"
+        android:id="@+id/grp1">
+
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/newhome"></item>
+
+        <item
+            android:id="@+id/nav_parking"
+            android:title="Parking"
+            android:icon="@drawable/family"></item>
+
+       </group>
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/grp2">
+
+        <item  android:id="@+id/share"
+            android:title="Share"
+            android:icon="@drawable/ic_baseline_share_24">
+        </item>
+
+
+        <item
+            android:id="@+id/settings"
+            android:title="Settings"
+            android:icon="@drawable/settings"></item>
+
+        <item
+            android:id="@+id/nav_about"
+            android:title="About"
+            android:icon="@drawable/about"></item>
+
+        <item
+            android:id="@+id/Logout"
+            android:title="Logout"
+            android:icon="@drawable/logout"></item>
+
+    </group>
+</menu>
