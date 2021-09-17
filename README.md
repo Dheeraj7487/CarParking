@@ -22,7 +22,8 @@ notified about the booking along with unique parking number.
     9. Feedback: The system has a feedback form, where user can provide feedback into the system. 
     
 # Screenshot
-    ![Picture11](https://user-images.githubusercontent.com/61641097/133771616-39466f43-29bb-4999-ba3d-9ce7ba05141c.jpg)
+
+![Picture11](https://user-images.githubusercontent.com/61641097/133771616-39466f43-29bb-4999-ba3d-9ce7ba05141c.jpg)
 
 # User side functionality:
     Book parking space
