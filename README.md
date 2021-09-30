@@ -21,14 +21,7 @@ notified about the booking along with unique parking number.
     8. Successful parking booking: When user is successful in parking the space, system sends a confirmation notification regarding the space booked.
     9. Feedback: The system has a feedback form, where user can provide feedback into the system. 
     
-# Screenshot
-![pic123](https://user-images.githubusercontent.com/61641097/133773315-182864a1-55b5-4165-8ec2-d06367d7c473.png)
-![pic456](https://user-images.githubusercontent.com/61641097/133773329-8fc89de4-d8eb-4306-9984-be65be8623e7.png)
-![pic789](https://user-images.githubusercontent.com/61641097/133773331-f753378b-0b63-4184-b730-45acd6f573fc.png)
-![Picture10](https://user-images.githubusercontent.com/61641097/133773361-07a6094a-1cac-48a7-a693-c3c90052ec69.png)
-
-
-# User side functionality:
+    # User side functionality:
     Book parking space
     Cancellation
     Receipt Print
@@ -39,3 +32,10 @@ notified about the booking along with unique parking number.
     Cancellation
     View User Data
     Feedback view and reply
+
+    
+# Screenshot
+![pic123](https://user-images.githubusercontent.com/61641097/133773315-182864a1-55b5-4165-8ec2-d06367d7c473.png)
+![pic456](https://user-images.githubusercontent.com/61641097/133773329-8fc89de4-d8eb-4306-9984-be65be8623e7.png)
+![pic789](https://user-images.githubusercontent.com/61641097/133773331-f753378b-0b63-4184-b730-45acd6f573fc.png)
+![Picture10](https://user-images.githubusercontent.com/61641097/133773361-07a6094a-1cac-48a7-a693-c3c90052ec69.png)
