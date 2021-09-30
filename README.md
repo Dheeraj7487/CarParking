@@ -21,13 +21,13 @@ notified about the booking along with unique parking number.
     8. Successful parking booking: When user is successful in parking the space, system sends a confirmation notification regarding the space booked.
     9. Feedback: The system has a feedback form, where user can provide feedback into the system. 
     
-    # User side functionality:
+# User side functionality:
     Book parking space
     Cancellation
     Receipt Print
     Feedback
     Recharge Wallet
- # Admin side functionality:
+# Admin side functionality:
     Administers parking booked
     Cancellation
     View User Data
